@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/mac用/学习/算法导论/test/SORT.h
+stdio.h
+-
+
+/Volumes/mac用/学习/算法导论/test/main.c
+stdio.h
+-
+SORT.h
+/Volumes/mac用/学习/算法导论/test/SORT.h
+
