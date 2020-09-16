@@ -150,32 +150,32 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/main.c.s
 .PHONY : main.c.s
 
-第二章/INSERTION_SORT.o: 第二章/INSERTION_SORT.c.o
+第二章/SORT.o: 第二章/SORT.c.o
 
-.PHONY : 第二章/INSERTION_SORT.o
+.PHONY : 第二章/SORT.o
 
 # target to build an object file
-第二章/INSERTION_SORT.c.o:
-	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.o
-.PHONY : 第二章/INSERTION_SORT.c.o
+第二章/SORT.c.o:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/第二章/SORT.c.o
+.PHONY : 第二章/SORT.c.o
 
-第二章/INSERTION_SORT.i: 第二章/INSERTION_SORT.c.i
+第二章/SORT.i: 第二章/SORT.c.i
 
-.PHONY : 第二章/INSERTION_SORT.i
+.PHONY : 第二章/SORT.i
 
 # target to preprocess a source file
-第二章/INSERTION_SORT.c.i:
-	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.i
-.PHONY : 第二章/INSERTION_SORT.c.i
+第二章/SORT.c.i:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/第二章/SORT.c.i
+.PHONY : 第二章/SORT.c.i
 
-第二章/INSERTION_SORT.s: 第二章/INSERTION_SORT.c.s
+第二章/SORT.s: 第二章/SORT.c.s
 
-.PHONY : 第二章/INSERTION_SORT.s
+.PHONY : 第二章/SORT.s
 
 # target to generate assembly for a file
-第二章/INSERTION_SORT.c.s:
-	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.s
-.PHONY : 第二章/INSERTION_SORT.c.s
+第二章/SORT.c.s:
+	$(MAKE) -f CMakeFiles/Algorithms.dir/build.make CMakeFiles/Algorithms.dir/第二章/SORT.c.s
+.PHONY : 第二章/SORT.c.s
 
 # Help Target
 help:
@@ -189,9 +189,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... 第二章/INSERTION_SORT.o"
-	@echo "... 第二章/INSERTION_SORT.i"
-	@echo "... 第二章/INSERTION_SORT.s"
+	@echo "... 第二章/SORT.o"
+	@echo "... 第二章/SORT.i"
+	@echo "... 第二章/SORT.s"
 .PHONY : help
 
 

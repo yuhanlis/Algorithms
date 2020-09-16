@@ -2,7 +2,7 @@ file(REMOVE_RECURSE
   "Algorithms"
   "Algorithms.pdb"
   "CMakeFiles/Algorithms.dir/main.c.o"
-  "CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.o"
+  "CMakeFiles/Algorithms.dir/第二章/SORT.c.o"
 )
 
 # Per-language clean rules from dependency scanning.

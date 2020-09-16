@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/Volumes/mac用/学习/算法导论/Algorithms/main.c" "/Volumes/mac用/学习/算法导论/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/main.c.o"
-  "/Volumes/mac用/学习/算法导论/Algorithms/第二章/INSERTION_SORT.c" "/Volumes/mac用/学习/算法导论/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.o"
+  "/Volumes/mac用/学习/算法导论/Algorithms/第二章/SORT.c" "/Volumes/mac用/学习/算法导论/Algorithms/cmake-build-debug/CMakeFiles/Algorithms.dir/第二章/SORT.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

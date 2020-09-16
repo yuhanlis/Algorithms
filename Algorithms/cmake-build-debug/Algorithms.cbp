@@ -81,7 +81,10 @@
 		<Unit filename="/Volumes/mac用/学习/算法导论/Algorithms/main.c">
 			<Option target="Algorithms"/>
 		</Unit>
-		<Unit filename="/Volumes/mac用/学习/算法导论/Algorithms/第二章/INSERTION_SORT.c">
+		<Unit filename="/Volumes/mac用/学习/算法导论/Algorithms/第二章/SORT.c">
+			<Option target="Algorithms"/>
+		</Unit>
+		<Unit filename="/Volumes/mac用/学习/算法导论/Algorithms/第二章/SORT.h">
 			<Option target="Algorithms"/>
 		</Unit>
 		<Unit filename="/Volumes/mac用/学习/算法导论/Algorithms/CMakeLists.txt">

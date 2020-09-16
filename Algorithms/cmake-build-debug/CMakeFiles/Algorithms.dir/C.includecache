@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/mac用/学习/算法导论/Algorithms/main.c
-stdio.h
--
-第二章/SORT.h
+/Volumes/mac用/学习/算法导论/Algorithms/第二章/SORT.c
+SORT.h
 /Volumes/mac用/学习/算法导论/Algorithms/第二章/SORT.h
+stdlib.h
+-
 
 /Volumes/mac用/学习/算法导论/Algorithms/第二章/SORT.h
 stdio.h

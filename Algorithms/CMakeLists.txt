@@ -3,4 +3,4 @@ project(Algorithms C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Algorithms main.c 第二章/INSERTION_SORT.c)
+add_executable(Algorithms main.c 第二章/SORT.c)

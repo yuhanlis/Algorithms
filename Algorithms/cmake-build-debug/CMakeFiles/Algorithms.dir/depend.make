@@ -4,6 +4,6 @@
 CMakeFiles/Algorithms.dir/main.c.o: ../main.c
 CMakeFiles/Algorithms.dir/main.c.o: ../第二章/SORT.h
 
-CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.o: ../第二章/INSERTION_SORT.c
-CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.o: ../第二章/SORT.h
+CMakeFiles/Algorithms.dir/第二章/SORT.c.o: ../第二章/SORT.c
+CMakeFiles/Algorithms.dir/第二章/SORT.c.o: ../第二章/SORT.h
 

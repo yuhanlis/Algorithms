@@ -70,29 +70,29 @@ CMakeFiles/Algorithms.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/main.c.s"
 	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/mac用/学习/算法导论/Algorithms/main.c -o CMakeFiles/Algorithms.dir/main.c.s
 
-CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.o: CMakeFiles/Algorithms.dir/flags.make
-CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.o: ../第二章/INSERTION_SORT.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/mac用/学习/算法导论/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.o   -c /Volumes/mac用/学习/算法导论/Algorithms/第二章/INSERTION_SORT.c
+CMakeFiles/Algorithms.dir/第二章/SORT.c.o: CMakeFiles/Algorithms.dir/flags.make
+CMakeFiles/Algorithms.dir/第二章/SORT.c.o: ../第二章/SORT.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/mac用/学习/算法导论/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Algorithms.dir/第二章/SORT.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Algorithms.dir/第二章/SORT.c.o   -c /Volumes/mac用/学习/算法导论/Algorithms/第二章/SORT.c
 
-CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/mac用/学习/算法导论/Algorithms/第二章/INSERTION_SORT.c > CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.i
+CMakeFiles/Algorithms.dir/第二章/SORT.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Algorithms.dir/第二章/SORT.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Volumes/mac用/学习/算法导论/Algorithms/第二章/SORT.c > CMakeFiles/Algorithms.dir/第二章/SORT.c.i
 
-CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/mac用/学习/算法导论/Algorithms/第二章/INSERTION_SORT.c -o CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.s
+CMakeFiles/Algorithms.dir/第二章/SORT.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Algorithms.dir/第二章/SORT.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Volumes/mac用/学习/算法导论/Algorithms/第二章/SORT.c -o CMakeFiles/Algorithms.dir/第二章/SORT.c.s
 
 # Object files for target Algorithms
 Algorithms_OBJECTS = \
 "CMakeFiles/Algorithms.dir/main.c.o" \
-"CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.o"
+"CMakeFiles/Algorithms.dir/第二章/SORT.c.o"
 
 # External object files for target Algorithms
 Algorithms_EXTERNAL_OBJECTS =
 
 Algorithms: CMakeFiles/Algorithms.dir/main.c.o
-Algorithms: CMakeFiles/Algorithms.dir/第二章/INSERTION_SORT.c.o
+Algorithms: CMakeFiles/Algorithms.dir/第二章/SORT.c.o
 Algorithms: CMakeFiles/Algorithms.dir/build.make
 Algorithms: CMakeFiles/Algorithms.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/mac用/学习/算法导论/Algorithms/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Algorithms"

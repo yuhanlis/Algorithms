@@ -1,0 +1,22 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "main",
+            "type": "shell",
+            "command": "/usr/bin/gcc",
+            "args": [
+                "-g",//编译命令
+                "${workspaceFolder}/Algorithms/main.c",//当前workspace下的hello.c文件
+                 "-o",//输出文件命令
+                "${workspaceFolder}/Algorithms/main.o"//生成的可执行文件的路径及名称
+            ],
+            "group": {
+                "kind":"build",
+                "isDefault": true
+            }
+        }
+    ]
+}
