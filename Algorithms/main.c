@@ -9,7 +9,8 @@ int main() {
     }
     putchar('\n');
     //INSERTION_SORT(A,6);
-    MERGE_SORT(A,0,6);
+    //MERGE_SORT(A,0,6);
+    BUBBLE_SORT(A,6);
     for(int i=0;i<6;i++){
         printf("%d\t",A[i]);
     }

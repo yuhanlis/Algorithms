@@ -61,7 +61,22 @@ void MERGE_SORT(int *A,int p,int r){
 }
 
 
-
-
+/**
+ * 
+ *  冒泡排序
+ * 
+ * */
+void BUBBLE_SORT(int *A,int n){
+    for(int i=1;i<n;i++){
+        for(int j=1;j<n;j++){
+            int temp;
+            if(A[j-1]>A[j]){
+                temp=A[j-1];
+                A[j-1]=A[j];
+                A[j]=temp;
+            }
+        }
+    }
+}
 
 
